@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1234,
+    "name": "airtel",
+    "img_src": "http://www.airtel.com/logo"
+  },
+  {
+    "id": 1234,
+    "name": "vodafone",
+    "img_src": "http://www.airtel.com/logo"
+  },
+  {
+    "id": 1234,
+    "name": "idea",
+    "img_src": "http://www.airtel.com/logo"
+  }
+]
